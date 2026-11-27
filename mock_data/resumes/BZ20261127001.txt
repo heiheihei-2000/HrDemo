@@ -1,0 +1,12 @@
+【简历】张伟
+性别：男  年龄：29  学历：本科（武汉大学）
+工作年限：5年  当前：某头部电商公司 / 高级Java工程师
+求职意向：Java后端开发工程师  期望薪资：26-30K
+联系电话：138****2231
+工作经历：
+2021.07-至今 某头部电商公司 高级Java工程师
+- 负责订单与库存中心微服务（Spring Cloud Alibaba），日均订单 300 万
+- 主导大促秒杀链路改造，Redis 预扣库存 + Kafka 异步落库，峰值 QPS 8 万
+- 牵头 MySQL 慢查询治理，核心接口 P99 从 800ms 降到 120ms
+技能：Java、Spring Boot/Cloud、MySQL、Redis、Kafka、Elasticsearch、Docker/K8s
+自我评价：对高并发场景有实战经验，带过 4 人小组。
